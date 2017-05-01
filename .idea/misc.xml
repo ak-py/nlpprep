@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6.1 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6)" project-jdk-type="Python SDK" />
+  <component name="PuppetProjectConfiguration">
+    <environmentSettings>
+      <PuppetEnvironmentSettings currentEnvironmentName="my_env">
+        <environmentSet>
+          <Environment name="production" modulepath="/modules:/usr/share/puppet/modules:/opt/puppet/share/puppet/modules" />
+          <Environment name="my_env" modulepath="$USER_HOME$/anaconda/pkgs/scikit-learn-0.18.1-np111py36_1" />
+        </environmentSet>
+      </PuppetEnvironmentSettings>
+    </environmentSettings>
+  </component>
+</project>
